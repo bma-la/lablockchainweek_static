@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Los Angeles Blockchain Week</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A one-week event designed to showcase Los Angeles as the leading Blockchain and Cryptocurrency hub in the United States.</description>
+	<lastBuildDate>
+	Tue, 02 Apr 2019 22:15:10 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>Blog Post Title</title>
+		<link>/2018/09/06/hello-world/</link>
+				<comments>/2018/09/06/hello-world/#comments</comments>
+				<pubDate>Fri, 07 Sep 2018 01:27:41 +0000</pubDate>
+		<dc:creator><![CDATA[josef]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=1</guid>
+				<description><![CDATA[What goes into a blog post? Helpful, industry-specific content that: 1) gives readers a useful takeaway, and 2) shows you&#8217;re an industry expert. Use your company&#8217;s blog posts to opine on current industry topics, humanize your company, and show how your products and services can help people.]]></description>
+								<content:encoded><![CDATA[<div class="bt_bb_wrapper"><p>What goes into a blog post? Helpful, industry-specific content that: 1) gives readers a useful takeaway, and 2) shows you&#8217;re an industry expert. </p>
+<p>Use your company&#8217;s blog posts to opine on current industry topics, humanize your company, and show how your products and services can help people.</p>
+</div>]]></content:encoded>
+							<wfw:commentRss>/2018/09/06/hello-world/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+	</channel>
+</rss>
